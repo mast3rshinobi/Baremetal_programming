@@ -1,0 +1,5 @@
+stm32_startup.o
+final.bin
+final.elf
+final.map
+main.o
